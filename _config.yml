@@ -270,10 +270,10 @@ mathjax:
 #duoshuo_shortname: zproo
 
 # Disqus
-disqus_shortname: leeifme
+#disqus_shortname: leeifme
 
 # Hypercomments
-#hypercomments_id:
+hypercomments_id: 92035
 
 # Gentie productKey
 #gentie_productKey:
