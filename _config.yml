@@ -145,7 +145,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/leeifme
-  微博: http://weibo.com/zproo
+  微博: http://weibo.com/5406937103/profile?topnav=1&wvr=6
 #  Instagram: http://www.instagram.com/BearD01001
 #  知乎: http://www.zhihu.com/people/HiDino9
 
@@ -273,7 +273,7 @@ mathjax:
 #disqus_shortname: leeifme
 
 # Hypercomments
-hypercomments_id: 92035
+hypercomments_id: 92841
 
 # Gentie productKey
 #gentie_productKey:
@@ -446,8 +446,9 @@ version: 5.0.1
 # zproo添加
 url: http://www.leeif.me
 
+# hexo sitemap网站地图
 sitemap:
   path: sitemap.xml
-
 baidusitemap:
   path: baidusitemap.xml
+
